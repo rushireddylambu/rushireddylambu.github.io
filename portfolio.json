@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "Your Name",
   "label": "Optional Label",
   "image_path": "img/default-image.png",
@@ -8,6 +9,17 @@
     "location": "City, State, Country"
   },
   "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+=======
+  "name": "Rushi Reddy Lambu",
+  "label": "Optional Label",
+  "image_path": "img/default-image.png",
+  "contact": {
+    "email": "rushireddylambu9@gmail.com",
+    "phone": "+1 9408439322",
+    "location": "Denton, Texas, USA"
+  },
+  "summary": "I am an ML enthusiast pursuing my master's in Computer and Information Science and graduating in Spring 2025. Previously, I worked as a Software Engineer at Capgemini Technology Services India Limited. My interests include drawing and writing short stories.",
+>>>>>>> 83f6f06 (initial commit)
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -17,12 +29,20 @@
     },
     {
       "label": "First Social",
+<<<<<<< HEAD
       "url": "https://sample.com",
+=======
+      "url": "https://www.linkedin.com/in/rushi-reddy-lambu/",
+>>>>>>> 83f6f06 (initial commit)
       "svg_path": "img/linkedin.svg"
     },
     {
       "label": "Second Social",
+<<<<<<< HEAD
       "url": "https://sample.com",
+=======
+      "url": "https://github.com/rushireddylambu",
+>>>>>>> 83f6f06 (initial commit)
       "svg_path": "img/github.svg"
     }
   ],
