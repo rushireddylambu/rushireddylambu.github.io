@@ -1,13 +1,13 @@
 {
-  "name": "Rushi Reddy Lambu",
+  "name": "Your Name",
   "label": "Optional Label",
   "image_path": "img/default-image.png",
   "contact": {
-    "email": "rushireddylambu9@gmail.com",
-    "phone": "+1 9408439322",
-    "location": "Denton, Texas, USA"
+    "email": "FirstLast@Sample.com",
+    "phone": "123-456-7890",
+    "location": "City, State, Country"
   },
-  "summary": "I am an ML enthusiast pursuing my master's in Computer and Information Science and graduating in Spring 2025. Previously, I worked as a Software Engineer at Capgemini Technology Services India Limited. My interests include drawing and writing short stories.",
+  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -17,12 +17,12 @@
     },
     {
       "label": "First Social",
-      "url": "https://www.linkedin.com/in/rushi-reddy-lambu/",
+      "url": "https://sample.com",
       "svg_path": "img/linkedin.svg"
     },
     {
       "label": "Second Social",
-      "url": "https://github.com/rushireddylambu",
+      "url": "https://sample.com",
       "svg_path": "img/github.svg"
     }
   ],
