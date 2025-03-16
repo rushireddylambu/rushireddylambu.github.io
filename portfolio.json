@@ -52,16 +52,16 @@
       ],
       "images": [
         {
-          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project1 image1.png",
+          "img_path": "img/project1 image1.png",
           "caption": "Model accuracy and Model loss"
           
         },
         {
-          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project1 image2.png",
+          "img_path": "img/project1 image2.png",
           "caption": "Classification Report"
         },
         {
-          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project1 image3.png",
+          "img_path": "img/project1 image3.png",
           "caption": "150,000 issues with title and body data"
         }
       ]
@@ -77,15 +77,15 @@
       ],
       "images": [
         {
-          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project2 image1.png",
+          "img_path": "img/project2 image1.png",
           "caption": "Story 1"
         },
         {
-          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project2 image2.png",
+          "img_path": "img/project2 image2.png",
           "caption": "Story 2"
         },
         {
-          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project2 image3.png",
+          "img_path": "img/project2 image3.png",
           "caption": "Story 3"
         }
       ]
@@ -185,7 +185,7 @@
       "summary": "Air Hockey is the game i love to play",
       "images": [
         {
-          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/air hockey.jpg",
+          "img_path": "img/air hockey.jpg",
           "caption": "Air hockey"
         }
       ]
@@ -195,7 +195,7 @@
       "summary": "I like draw pictures in my freeform app in my free time",
       "images": [
         {
-          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/freeform drawing.jpg",
+          "img_path": "img/freeform drawing.jpg",
           "caption": "freeform drawings"
         }
       ]
