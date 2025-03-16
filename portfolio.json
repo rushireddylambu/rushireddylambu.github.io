@@ -124,7 +124,7 @@
       "degrees": [
         "Master of Science in Computer Science"
       ],
-      "cgpa": "3.8/4.0"
+      "cgpa": "3.8"
     },
     {
       "institution": "Sreenidhi Institute of Science & Technology",
@@ -132,8 +132,7 @@
       "url": "https://sreenidhi.edu.in/",
       "degrees": [
         "Bachelor of Science in Electrical and Electronics Engineering"
-      ],
-      "cgpa": "8.1/10"
+      ]
     }
   ],
   "skills": [
