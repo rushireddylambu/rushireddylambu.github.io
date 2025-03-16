@@ -174,7 +174,8 @@ section {
   gap: 0.25rem;
 }
 
-.header-label {
+.header-
+ {
   font-size: 1.3rem;
   color: #444;
   margin-top: 0.2rem;
@@ -471,3 +472,8 @@ blockquote {
     print-color-adjust: exact !important;
   }
 }
+
+
+
+
+

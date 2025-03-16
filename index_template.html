@@ -154,17 +154,20 @@
                     </ul>
                   {% endif %}
                   {% if project.images %}
-                    <div class="gallery main-gallery">
-                      {% for img in project.images %}
-                        <figure>
-                          <img width="600"
-                               height="338"
-                               src="{{ img.img_path }}"
-                               alt="{{ img.caption }}">
-                          <figcaption>{{ img.caption }}</figcaption>
-                        </figure>
-                      {% endfor %}
-                    </div>
+                  <div class="gallery main-gallery">
+                    {% for img in project.images %}
+                    <figure class="gallery-item">
+                      <!-- Link to the full-size image -->
+                      <a href="{{ img.img_path }}" target="_blank">
+                        <img class="gallery-thumbnail"
+                             width="600"
+                             height="338"
+                             src="{{ img.img_path }}"
+                             alt="{{ img.caption }}">
+                        <figcaption>{{ img.caption }}</figcaption>
+                      </figure>
+                    {% endfor %}
+                  </div>
                   {% endif %}
                 </section>
               {% endfor %}
@@ -231,7 +234,7 @@
                   </h3>
                   {% if edu.location %}<p class="section-label">{{ edu.location }}</p>{% endif %}
                   {% if edu.degrees %}
-                    <h4>Degrees</h4>
+                    <h4>Degree</h4>
                     <ul>
                       {% for deg in edu.degrees %}<li>{{ deg }}</li>{% endfor %}
                     </ul>

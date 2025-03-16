@@ -1,17 +1,6 @@
 {
-
-  "name": "Your Name",
-  "label": "Optional Label",
-  "image_path": "img/default-image.png",
-  "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
-  },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
-
   "name": "Rushi Reddy Lambu",
-  "label": "Aspiring ML and Data professional looking forward to  opportunities to apply my skills and contribute",
+  "label": "ML and Data Professional",
   "image_path": "img/default-image.jpg",
   "contact": {
     "email": "rushireddylambu9@gmail.com",
@@ -19,204 +8,195 @@
     "location": "Denton, Texas, USA"
   },
   "summary": "I am an ML enthusiast pursuing my master's in Computer and Information Science and graduating in Spring 2025. Previously, I worked as a Software Engineer at Capgemini Technology Services India Limited. My interests include drawing and writing short stories.",
-
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
       "label": "Personal Website",
-      "url": "https://sample.com",
+      "url": "https://rushireddylambu.github.io/",
       "svg_path": "img/globe.svg"
     },
     {
       "label": "First Social",
-
-      "url": "https://sample.com",
-
       "url": "https://www.linkedin.com/in/rushi-reddy-lambu/",
-
-      "url": "https://sample.com",
       "svg_path": "img/linkedin.svg"
     },
     {
       "label": "Second Social",
-
-      "url": "https://sample.com",
       "url": "https://github.com/rushireddylambu",
-
-      "url": "https://sample.com",
-
       "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "company": "Capgemini Technology Services India Limited",
+      "position": "Software Engineer",
+      "url": "https://www.capgemini.com/in-en/",
+      "start_date": "09/07/2021",
+      "end_date": "07/29/2022",
+      "summary": "As a backend developer, I focus on building and optimizing backend services and microservices using Java, Spring Boot, Docker, Kubernetes, OAuth, and AWS Cloud.",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
-      ]
-    },
-    {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
-      "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Developed microservices architecture with Java, Spring Boot, and AWS Cloud",
+        "Built and deployed RESTful APIs for seamless backend integration and automated processes via CI/CD with Prometheus and Grafana"
       ]
     }
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "GitHub-bugs-prediction-using-RNN-LSTM-BERT-and-MLP-models",
+      "summary": "Developed a pipeline to classify GitHub issues into bugs, features, and questions using deep learning",
+      "url": "https://github.com/rushireddylambu/GitHub-bugs-prediction-using-RNN-LSTM-BERT-and-MLP-models/tree/main",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        " Preprocessed 150,000 issues with title and body data, balancing classes and vectorizing text with TF-IDF.",
+        "Trained various models, including RNN, LSTM, BERT, and MLP achieving the highest accuracy of 69% with the MLP model.",
+        "Automated issue categorization, reducing manual effort and improving scalability"
       ],
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
+          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project1 image1.png",
+          "caption": "Model accuracy and Model loss"
+          
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
+          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project1 image2.png",
+          "caption": "Classification Report"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
+          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project1 image3.png",
+          "caption": "150,000 issues with title and body data"
         }
       ]
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "title": "Data-Driven-Healthcare-Analytics-using-Tableau",
+      "summary": "Developed data visualization dashboards to analyze healthcare trends, focusing on patient demographics, risk factors, and treatment outcomes.",
+      "url": "https://github.com/rushireddylambu/Data-Driven-Healthcare-Analytics-using-Tableau-",
       "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
+        "Conducted strategic analysis of healthcare data for data-driven policy decisions.",
+        "Identified patterns in heart disease prevalence, supporting targeted healthcare strategies. Used interactive data storytelling to present complex medical insights intuitively.",
+        "Applied trend analysis to assess long-term healthcare patterns and guide strategic planning"
       ],
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
+          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project2 image1.png",
+          "caption": "Story 1"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
+          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project2 image2.png",
+          "caption": "Story 2"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
+          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/project2 image3.png",
+          "caption": "Story 3"
         }
       ]
     }
   ],
   "volunteer_experience": [
     {
-      "organization": "Latest Organization",
-      "position": "Position One",
+      "organization": "tix robotics",
+      "position": "Student Volunteer",
       "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
+      "start_date": "03/07/2020",
+      "end_date": "03/12/2020",
+      "summary": "As a student volunteer I made sure that each student project is presented at the scheduled time",
       "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
+        "I made sure that each student project is presented at the scheduled time"
       ]
     },
     {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
+      "organization": "The Robotics Club-SNIST",
+      "position": "Publicity volunteer",
+      "url": "https://www.linkedin.com/company/the-robotics-club-snist/",
+      "start_date": "09/01/2018",
+      "end_date": "09/08/2018",
+      "summary": "I was the publicity volunteer for the Robovedha 2018 robotics event conducted by The Robotics Club",
       "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
+        "Went to every college in near by to inform everyone about the event."
+
       ]
     }
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "University of North Texas",
+      "location": "Denton, Texas, USA",
+      "url": "https://www.unt.edu/about-unt.html",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Master of Science in Computer Science"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "cgpa": "3.8/4.0"
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "institution": "Sreenidhi Institute of Science & Technology",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://sreenidhi.edu.in/",
+      "degrees": [
+        "Bachelor of Science in Electrical and Electronics Engineering"
+      ],
+      "cgpa": "8.1/10"
     }
   ],
   "skills": [
     {
-      "name": "My First Skill",
+      "name": "Python",
       "proficiency": 100,
       "proficiency_label": "Proficiency Level"
     },
     {
-      "name": "My Second Skill",
+      "name": "SQL",
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Machine Learning",
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Deep Learning",
       "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Azure",
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "PowerBI",
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+    }
+    ,
+    {
+      "name": "Tableau",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "AWS",
+      "proficiency": 90,
       "proficiency_label": "Proficiency Level"
     }
   ],
   "interests": [
     {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
+      "name": "Air Hockey",
+      "summary": "Air Hockey is the game i love to play",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
+          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/air hockey.jpg",
+          "caption": "Air hockey"
         }
       ]
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
+      "name": "ART",
+      "summary": "I like draw pictures in my freeform app in my free time",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
+          "img_path": "C:/Users/KUSHI REDDY/Desktop/portfolio-main/img/freeform drawing.jpg",
+          "caption": "freeform drawings"
         }
       ]
     }
@@ -224,23 +204,11 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Professional"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
-    }
-  ],
-  "references": [
-    {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-    },
-    {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+      "language": "Telugu",
+      "fluency": "Native Speaker"
     }
   ]
 }
